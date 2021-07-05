@@ -1,0 +1,22 @@
+.appBar{
+    box-shadow: none;
+    background-color: cornsilk;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+    width: 100%;
+    margin-left: 0px;
+}
+
+.nav-title{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(3, 3, 43);
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.image{
+    margin-right: 10px;
+}
+
+.grow{
+  flex-grow: 1;
+}
